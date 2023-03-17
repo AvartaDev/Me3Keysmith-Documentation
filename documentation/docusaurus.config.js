@@ -13,12 +13,12 @@ const config = {
   url: "https://avartadev.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/me3keysmith",
+  baseUrl: "/me3keysmith-documentation",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "AvartaDev", // Usually your GitHub org/user name.
-  projectName: "Me3Keysmith", // Usually your repo name.
+  projectName: "Me3Keysmith-Documentation", // Usually your repo name.
   deploymentBranch: "gh-pages",
 
   onBrokenLinks: "throw",
