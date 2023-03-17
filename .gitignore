@@ -10,7 +10,6 @@
 **/.npmrc
 
 # Docusaurus
-/docs/
 
 ## Generated files
 .docusaurus
