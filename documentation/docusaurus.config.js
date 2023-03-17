@@ -43,7 +43,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/AvartaDev/Me3Keysmith/tree/blob/main/documentation/",
+            "https://github.com/AvartaDev/Me3Keysmith-Documentation/blob/gh-pages/documentation/",
         },
         blog: false,
         theme: {
